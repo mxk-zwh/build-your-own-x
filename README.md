@@ -1,23 +1,24 @@
 [![Banner](https://codecrafters.io/landing/images/byox-banner.png)](https://codecrafters.io/github-banner)
 
-## Table of Contents: Build your own X
+## 表格的内容: Build your own X
 
-This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
+这个存储库是一个编写良好的分步指南汇编，用于从头开始重新创建我们最喜欢的技术。
 
+> *我不能创造的东西，我就不懂 — Richard Feynman.*
 > *What I cannot create, I do not understand — Richard Feynman.*
 
-It's a great way to learn.
+这是一个很好的学习方式。
 
-* [3D Renderer](#build-your-own-3d-renderer)
-* [Augmented Reality](#build-your-own-augmented-reality)
+* [3d渲染器](#build-your-own-3d-renderer)
+* [增强现实](#build-your-own-augmented-reality)
 * [BitTorrent Client](#build-your-own-bittorrent-client)
-* [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
+* [区块链 / 加密数字货币](#build-your-own-blockchain--cryptocurrency)
 * [Bot](#build-your-own-bot)
-* [Command-Line Tool](#build-your-own-command-line-tool)
-* [Database](#build-your-own-database)
+* [命令行工具](#build-your-own-command-line-tool)
+* [数据库](#build-your-own-database)
 * [Docker](#build-your-own-docker)
-* [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
-* [Front-end Framework / Library](#build-your-own-front-end-framework--library)
+* [Emulator / 虚拟机](#build-your-own-emulator--virtual-machine)
+* [前端框架 / 库](#build-your-own-front-end-framework--library)
 * [Game](#build-your-own-game)
 * [Git](#build-your-own-git)
 * [Network Stack](#build-your-own-network-stack)
@@ -36,7 +37,7 @@ It's a great way to learn.
 * [Web Server](#build-your-own-web-server)
 * [Uncategorized](#uncategorized)
 
-## Tutorials
+## 教程
 
 #### Build your own `3D Renderer`
 
